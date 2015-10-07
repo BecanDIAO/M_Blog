@@ -1,1 +1,1 @@
-M_Blog by Becan :) 
+Flask Web开发的练习，只开发到用户登录功能，后续功能会继续完善:)
